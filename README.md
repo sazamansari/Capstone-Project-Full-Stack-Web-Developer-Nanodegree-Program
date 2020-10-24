@@ -1,6 +1,6 @@
 # Casting Agency
 
-Site live at : [https://casting-agency-0426.herokuapp.com](https://casting-agency-0426.herokuapp.com)
+Site live at : [https://sh-fsnd-capstone.herokuapp.com/](https://sh-fsnd-capstone.herokuapp.com/)
 
 This project is my capstone project for Udacity's Fullstack Nanodegree program.
 It models a company that is responsible for creating movies and managing and assigning actors to those movies.
